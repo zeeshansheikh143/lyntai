@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # LyntAI - AI-Powered Image Generation App
 
 An advanced AI image generation application powered by Google's Gemini API. Create stunning images from text prompts with an intuitive storyboard interface.
@@ -38,11 +34,4 @@ An advanced AI image generation application powered by Google's Gemini API. Crea
 - **Google Gemini AI** - Image generation
 - **Lucide Icons** - Icon library
 
-## Live Demo
-
-View your app in AI Studio: https://ai.studio/apps/drive/1JqAN7CaPV0r0LZnsKUbFs6hlpDuRcVlP
-
----
-
-Made with ❤️ using Google Gemini AI
 
